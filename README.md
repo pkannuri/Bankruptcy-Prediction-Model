@@ -1,7 +1,5 @@
 # Bankruptcy-Prediction-Model
 Ensemble models in SAS Enterprise Miner
-## One-Line Description
-The PTSD Team developed a bankruptcy prediction model for a Kaggle Competition, utilizing an ensemble of Logistic Regression and Gradient Boosting in SAS Enterprise Miner.
 
 ## Overview
 This project involves the creation of a classification model to predict the likelihood of a company filing for bankruptcy. Developed as part of a Kaggle competition, the model is implemented in SAS Enterprise Miner and uses a combination of logistic regression and gradient boosting techniques. The process encompasses data cleaning, transformation, and model comparison to enhance prediction accuracy.
